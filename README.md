@@ -3,4 +3,4 @@ Una pequeña aplicación web que muestra el antes y después de la morfología d
 
 ![](krakatau.gif)
 
-Para usar la aplicación, da click en el siguiente enlace: 
+Para usar la aplicación, da click en el siguiente enlace: https://adchp.github.io/Krakatau/
