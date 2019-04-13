@@ -3,6 +3,6 @@ Una pequeña aplicación web que muestra el antes y después de la morfología d
 
 ## Visualización de la aplicación
 
-![](krakatau.gif)
-
 Para usar la aplicación, da click en el siguiente enlace: https://adchp.github.io/Krakatau/
+
+![](krakatau.gif)
